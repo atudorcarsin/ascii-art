@@ -2,6 +2,8 @@
 
 Generate ASCII art from images using Python.
 
+<img src="linux_logo_ascii_example.png" alt="ASCII art example" height="400">
+
 ## Installation and Usage
 
 Prerequisites:
